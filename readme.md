@@ -18,3 +18,5 @@ Imports the previous two and uses them to make and save plots I commonly had to 
 
 ### examples.py
 A few demonstrations of how to use these classes
+
+The Offline geometry for the PTM detectors is described in Mu2e-doc-38315. 
